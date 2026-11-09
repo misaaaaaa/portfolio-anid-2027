@@ -270,6 +270,8 @@ Parte de la exposición “Tiempo de Decaimiento Temprano” del Núcleo de Arte
 <!-- FIN PROYECTO -->
 <!-- FIN PROYECTO -->
 
+
+
 <!-- ============================================================
      PÁGINA IMAGEN COMPLETA — copiar este bloque para cada imagen a pantalla completa.
      El texto del alt ![...] aparece como crédito fotográfico
@@ -277,6 +279,27 @@ Parte de la exposición “Tiempo de Decaimiento Temprano” del Núcleo de Arte
      ============================================================ -->
 ::: {.fullpage}
 ![Vista general "Un trazo en el oído". Fotografía por Clo Rojo](./images/untrazo5.jpg)
+:::
+
+<!-- ANID 2027 · NUEVO · Hablar con extraños
+     PENDIENTE: reemplazar imagen provisoria por registro de Galería Micromedios -->
+::: {.project .project-right}
+::: {.project-image}
+![Imagen provisoria](./images/general-img-landscape.png)
+:::
+
+::: {.project-text}
+[Galería Micromedios, FAU U. de Chile. Santiago, Chile]{.project-location}
+
+## Hablar con extraños (2025)
+
+[INSTALACIÓN SONORA]{.project-subtitle}
+[Curatoría por Vicente Domínguez. Adaptación de _Amplificar la duda_ (2024)]{.project-materials}
+
+Instalación sonora adaptada desde el proyecto expositivo _Amplificar la duda_ para la Galería Micromedios de la Facultad de Arquitectura y Urbanismo de la U. de Chile. La pieza retoma las instancias de escucha en las que conversé con personas adultas sobre sus historias, dudas, rasgos y comportamientos que podrían ser calificados como extraños, y las reorganiza para un nuevo espacio, especulando sobre los límites y categorías de lo que significa ser una persona.
+
+[Información de la exposición](https://translab.uchilefau.cl/hablar-con-extranos/)
+:::
 :::
 
 <!-- FIN IMAGEN COMPLETA -->
@@ -378,6 +401,28 @@ Parte de la exposición “Tiempo de Decaimiento Temprano” del Núcleo de Arte
 <!-- FIN PROYECTO DERECHO -->
 <!-- FIN PROYECTO DERECHO -->
 
+<!-- ANID 2027 · NUEVO · Campos eléctricos afiebrados -->
+::: {.project}
+::: {.project-image}
+![Fotografía por Clo Rojo](./images/paraespectral2.jpg)
+:::
+
+::: {.project-text}
+[Anilla Cultural MAC. Santiago, Chile]{.project-location}
+
+## Campos eléctricos afiebrados (2024)
+
+[PIEZA SONORA PARA PODCAST]{.project-subtitle}
+[Motores, vibradores, ventiladores, señales FM, transistores, micrófonos caseros, secuenciadores y procesamiento digital. Podcast sesiones·para·espectrales, capítulo «Transducción»]{.project-materials}
+
+Pieza creada especialmente para el podcast _sesiones·para·espectrales_ de Anilla MAC, orientado a las prácticas sonoras en el arte local. El capítulo desarrolló el concepto de transducción, y en él presenté esta obra junto a una conversación sobre prácticas sonoras en las artes visuales.
+
+El título reorganiza una frase de Graham Harman: “(…) debemos mantener un sano escepticismo frente a cualquier propuesta afiebrada en el sentido de que todo grano de arena o campo eléctrico es, en realidad, un poeta: tal vez no lo es”. Tampoco creo que lo que hagan los electrones sea poesía, pero es bonito dialogar con ellos y escuchar los movimientos extraños que tienen.
+
+[Registro en YouTube](https://www.youtube.com/watch?v=lgXexOipaPY)
+:::
+:::
+
 
 <!-- INICIO PROYECTO -->
 <!-- INICIO PROYECTO -->
@@ -405,6 +450,116 @@ Parte de la exposición “Tiempo de Decaimiento Temprano” del Núcleo de Arte
 <!-- FIN PROYECTO -->
 <!-- FIN PROYECTO -->
 <!-- FIN PROYECTO -->
+
+<!-- ANID 2027 · NUEVO · Utopías y distopías de la modernidad -->
+::: {.project .project-right}
+::: {.project-image}
+![Fotografía por Bárbara Molina](./images/uyd4.jpeg)
+:::
+
+::: {.project-text}
+[Isla Rey Jorge, Antártica · Museo MAC Parque Forestal. Santiago, Chile]{.project-location}
+
+## Utopías y distopías de la modernidad (2022–2023)
+
+[RESIDENCIA Y PIEZA SONORA + INGRID WILDI MERINO]{.project-subtitle}
+[Registros con hidrófono en costa de témpanos. Pieza sonora «Materia infinitamente porosa», reproducida junto a la pieza visual «Antártica, 1973»]{.project-materials}
+
+Artista invitado a participar de la residencia de investigación en la Antártica chilena, en el marco del proyecto _Utopías y distopías de la modernidad_ de la artista chilena Ingrid Wildi Merino.
+
+A partir de los registros realizados durante la residencia compuse la pieza sonora _Materia infinitamente porosa_, que se reprodujo junto a la pieza visual _Antártica, 1973_ en la sala 5 del Museo de Arte Contemporáneo, sede Parque Forestal, entre noviembre de 2023 y enero de 2024. Parte del material fue publicado también como _Auscultación (± 0.05 msnm)_ en el compilado _start ►_ del Núcleo de Artes Sonoras.
+
+[Documentación completa](https://misaa.cc/projects/utopiasydistopias.html)
+:::
+:::
+
+<!-- ANID 2027 · NUEVO · Extraños(extranjeros(extraños(…))) -->
+::: {.project}
+::: {.project-image}
+![Fotografía por Bárbara Molina](./images/strange1.jpg)
+:::
+
+::: {.project-text}
+[Festival Espacios Resonantes. Recoleta, Santiago, Chile]{.project-location}
+
+## Extraños(extranjeros(extraños(…))) (2022)
+
+[PERFORMANCE SONORA]{.project-subtitle}
+[Performance en estanque subterráneo abandonado. Retroalimentación sonora, mecánica y eléctrica. Streaming: Jota Aldunce]{.project-materials}
+
+Artista invitado a desarrollar una performance en un estanque subterráneo abandonado de la comuna de Recoleta, el 26 de noviembre de 2022.
+
+La performance se basa en la ecología oscura de Timothy Morton, una propuesta coexistencialista que busca evidenciar los ciclos infinitos entre los elementos que constituyen la realidad. Exploré en diversas escalas las implicancias de un sonido generado sobre un pilar del estanque y cómo su vibración se transmite y altera otros entes en su interior. Estas relaciones de simpatía entre objetos generan flujos constantes de retroalimentación, donde no se distingue entre objeto, instrumento y sonido: todo forma parte del mismo sistema ecológico.
+
+[Documentación completa y video](https://misaa.cc/projects/extranosextranjerosextranos.html)
+:::
+:::
+
+<!-- ANID 2027 · NUEVO · revuelta -->
+::: {.project .project-right}
+::: {.project-image}
+![Fotograma de revuelta (Imagen Fest Edit)](./images/revuelta_imgfest.jpg)
+:::
+
+::: {.project-text}
+[XXI Festival Internacional de la Imagen. Manizales, Colombia]{.project-location}
+
+## revuelta (2022)
+
+[PIEZA AUDIOVISUAL · 12']{.project-subtitle}
+[Paisajes sonoros registrados en el metro de Santiago el 18 de octubre de 2019. Material de archivo: Agencia EFE, Radio Bío-Bío. Grabación en Metro Plaza de Armas: Rainer Krause]{.project-materials}
+
+_revuelta_ es un ejercicio documental construido a partir de paisajes sonoros registrados en el metro de Santiago durante el 18 de octubre de 2019, lugar y día en que se radicalizaron las protestas iniciadas por estudiantes secundarios, que en las horas siguientes se propagarían por todo el país.
+
+La versión audiovisual fue exhibida en el XXI Festival Internacional de la Imagen de Manizales (20 de octubre de 2022). El documental sonoro fue publicado originalmente en el álbum _tres reconstituciones y un documental sonoro_ (2021).
+
+[Documentación completa y video](https://misaa.cc/projects/revuelta_imgfest.html)
+:::
+:::
+
+<!-- ANID 2027 · NUEVO · Encuentro Tsonami 2019 -->
+::: {.project}
+::: {.project-image}
+![Archivo Colectiva 22bits](./images/tsonami2019.jpg)
+:::
+
+::: {.project-text}
+[XIV Festival de Arte Sonoro Tsonami. Valparaíso, Chile]{.project-location}
+
+## Prácticas sonoras en contextos de crisis (2019)
+
+[RESIDENCIA + COLECTIVA 22bits]{.project-subtitle}
+[Con Bárbara Molina. Acciones: Cacerolazo permanente, Radio libre para niñas y niños, taller y marcha por el Día de la Discapacidad, ¿Es posible una acústica tecnofeminista?]{.project-materials}
+
+Tras el estallido social, el festival Tsonami 2019 optó por un perfil político vinculado al contexto de crisis. Como Colectiva 22bits, nuestra postura fue salir a la calle a escuchar las voces de personas pertenecientes a categorías no hegemónicas: niñas y niños, mujeres y personas en situación de discapacidad.
+
+Realizamos acciones de llamado a la protesta con tecnologías precarias, una radio libre con registros de niñas y niños dialogando sobre la situación política del país, y un taller de fabricación de instrumentos para la marcha del Día Internacional de la Discapacidad en Viña del Mar, junto a las compañías Otro Cuerpo y Renaciendo y la Fundación Paso a Paso.
+
+[Documentación completa](https://misaa.cc/projects/tsonami2019.html)
+:::
+:::
+
+<!-- ANID 2027 · NUEVO · Platohedro 2019 -->
+::: {.project .project-right}
+::: {.project-image}
+![Archivo Colectiva 22bits](./images/plato2.jpg)
+:::
+
+::: {.project-text}
+[Platohedro. Medellín, Colombia]{.project-location}
+
+## Sonido tecnofeminista (2019)
+
+[RESIDENCIA + COLECTIVA 22bits]{.project-subtitle}
+[Con Bárbara Molina. Programa La Jacquer EsCool. Ciclo de talleres de electrónica y sonido, y concierto colectivo]{.project-materials}
+
+En el marco de una residencia colaborativa de intercambio de conocimiento con Platohedro, la Colectiva 22bits llevó a cabo un ciclo de talleres de electrónica y sonido tecnofeminista, dirigido principalmente a un público identificado con lo femenino.
+
+Se entregaron conocimientos de electrónica básica y principios del sonido, junto con la revisión de referentes que trabajan desde la autogestión musical. El ciclo culminó con un concierto abierto al público, en el que las asistentes utilizaron los artefactos construidos para componer una performance colectiva.
+
+[Documentación completa y video](https://misaa.cc/projects/platohedro.html)
+:::
+:::
 
 <!-- INICIO PROYECTO DERECHO -->
 <!-- INICIO PROYECTO DERECHO -->
@@ -467,6 +622,28 @@ Esta obra fue montada también el 2019 en exhibición Marea, (CENTEX, Valparaís
 <!-- FIN PROYECTO -->
 <!-- FIN PROYECTO -->
 
+<!-- ANID 2027 · NUEVO · Espectral (cortometraje) -->
+::: {.project .project-right}
+::: {.project-image}
+![Espectral: Escucha de un paisaje intervenido. Colectiva 22bits](./images/espectral3.jpg)
+:::
+
+::: {.project-text}
+[Strangloscope (Florianópolis) · Cinema Urbana (Brasilia) · ADAF (Atenas)]{.project-location}
+
+## Espectral: Escucha de un paisaje intervenido (2018–2019)
+
+[CORTOMETRAJE EXPERIMENTAL + COLECTIVA 22bits]{.project-subtitle}
+[Con Bárbara Molina. Realización audiovisual: Mauro Melo Dussuel. Producción: Colectiva 22bits / Moveshot. Fondart Regional Bío-Bío 2018]{.project-materials}
+
+Cortometraje resultado del proyecto _Espectral_, registrado entre Punta de Parra (Región del Bío-Bío) y Los Queñes (Región del Maule) en julio de 2018. A partir de la performance sonora en el túnel abandonado de Punta de Parra, la pieza traslada la experiencia de escucha de un paisaje intervenido al formato audiovisual.
+
+Fue visionado en la 12ª Strangloscope – Mostra Internacional de Áudio, Vídeo, Filme e Performance Experimental, en el 1º Cinema Urbana Architecture Film Festival de Brasilia y en el 16º Athens Digital Arts Festival. En 2019 se presentó como muestra multicanal en el IV Coloquio Pensar / Crear / Investigar en Músicas y Tecnologías (UDP).
+
+[Ver cortometraje](https://www.youtube.com/watch?v=CFOOE5q3Uj8)
+:::
+:::
+
 
 <!-- INICIO PROYECTO DERECHO -->
 <!-- INICIO PROYECTO DERECHO -->
@@ -495,6 +672,134 @@ Esta obra fue montada también el 2019 en exhibición Marea, (CENTEX, Valparaís
 <!-- FIN PROYECTO DERECHO -->
 <!-- FIN PROYECTO DERECHO -->
 <!-- FIN PROYECTO DERECHO -->
+
+<!-- ANID 2027 · NUEVO · Percusiones, bits y audiciones -->
+::: {.project}
+::: {.project-image}
+![Archivo Colectiva 22bits](./images/sonidesp1.jpg)
+:::
+
+::: {.project-text}
+[Hall Museo MAC Parque Forestal. Santiago, Chile]{.project-location}
+
+## Percusiones, bits y audiciones (2017)
+
+[PERFORMANCE SONORA + COLECTIVA 22bits]{.project-subtitle}
+[Con Bárbara Molina. Dos secuenciadores Tutupá, 8 objetos del museo intervenidos con micrófonos de contacto, Ableton Live sincronizado vía CV4LIVE. Segundo lugar convocatoria Sonido Específico, Anilla Cultural MAC]{.project-materials}
+
+_Sonido Específico_ es una convocatoria de Anilla Cultural MAC que busca propuestas en torno a las características acústicas del hall del Museo de Arte Contemporáneo, sede Parque Forestal. Como Colectiva 22bits obtuvimos el segundo lugar y presentamos la performance el 18 de enero de 2017.
+
+Dos Tutupá golpeaban ocho objetos encontrados en el museo, amplificados mediante micrófonos de contacto y procesados en tiempo real, esclavizados al tempo de los secuenciadores. La performance transitó desde ritmos minimalistas y complejas polirritmias hasta ambientes cercanos al new age, atravesada por la particular acústica del hall central del MAC.
+
+[Documentación completa y video](https://misaa.cc/projects/sonidoespecifico.html)
+:::
+:::
+
+<!-- ============================================================
+     ANID 2027 · PUBLICACIONES SONORAS — todos los álbumes en una página
+     ============================================================ -->
+::: {.albums}
+## Publicaciones sonoras
+
+[Álbumes individuales publicados bajo el pseudónimo misaa]{.albums-meta}
+
+::: {.album}
+![](./images/3rec1doc.jpg)
+
+[2021 · Sello Medio Oriente]{.album-meta}
+
+### tres reconstituciones y un documental sonoro
+
+Ejercicio de reconstitución sónica del metro de Santiago de los años noventa y su música ambiental, interrumpido por la revuelta de octubre de 2019: el documental sonoro reúne recortes de cacerolazos, prensa y evacuaciones de estaciones. Cassette, 15 copias. Arte y diseño: Bárbara Molina.
+
+[mediooriente.bandcamp.com](https://mediooriente.bandcamp.com/album/tres-reconstituciones-y-un-documental-sonoro)
+:::
+
+::: {.album}
+![](./images/minoritario.jpg)
+
+[2020 · Sello Pueblo Nuevo]{.album-meta}
+
+### minoritario
+
+Álbum construido con samples grabados, interpretados y procesados en torno a la idea del devenir minoritario y los flujos que estallaron en Chile desde octubre de 2019. Arte: Mariana Riquelme. Diseño: Bárbara Molina. Reseña: César Fuenzalida.
+
+[pueblonuevo.cl](https://pueblonuevo.cl/catalogo/minoritario/)
+:::
+
+::: {.album}
+![](./images/mp_front.jpg)
+
+[2019 · Sello Archivo Veintidós]{.album-meta}
+
+### minor planets
+
+Primer álbum solista, producido entre 2014 y 2019. Explora la creación sonora de laboratorio mezclando beats, paisajes sonoros, guitarras y delays, en un proceso personal de varios años. Portada: Pablo Sánchez. Diseño: Bárbara Molina.
+
+[archivoveintidos.bandcamp.com](https://archivoveintidos.bandcamp.com/album/minor-planets)
+:::
+:::
+
+<!-- ============================================================
+     ANID 2027 · PROYECTOS COLECTIVOS — todos en una página
+     ============================================================ -->
+::: {.collectives}
+::: {.collectives-head}
+## Proyectos colectivos
+
+[Núcleos, sellos y proyectos interdisciplinares en los que participo]{.albums-meta}
+:::
+
+::: {.collective}
+[2023 – actualidad · DAV, U. de Chile]{.album-meta}
+
+### Núcleo de Artes Sonoras
+
+Investigación y promoción de las artes sonoras dentro de las artes visuales. Exposición _Tiempo de decaimiento temprano_ (MAC, 2025), conciertos y publicaciones del sello del núcleo.
+
+[nucleoartessonoras.bandcamp.com](https://nucleoartessonoras.bandcamp.com/)
+:::
+
+::: {.collective}
+[2025 – 2026 · Club Sonoro Deportivo · Fondart]{.album-meta}
+
+### Aproximaciones subacuáticas
+
+Creación e investigación interdisciplinar entre arte sonoro y nado, dirigida por Fernanda Fábrega. Concierto _Nada como una metáfora_ (2026).
+
+[clubsonorodeportivo.cl](https://clubsonorodeportivo.cl)
+:::
+
+::: {.collective}
+[2024 · Organismo Teatro]{.album-meta}
+
+### Árboles ciudadanos
+
+Creación e investigación interdisciplinar (electrónica, sonido, teatro y espacio público) en torno a los árboles en entornos urbanos.
+
+[arbolesciudadanos.cl](https://arbolesciudadanos.cl/)
+:::
+
+::: {.collective}
+[2020 · Depto. de Sonido, U. de Chile]{.album-meta}
+
+### Ruido propio
+
+Núcleo de investigación de memoria e identidad sonora dirigido por la Dra. Carla Badani. Explora el impacto de los fenómenos sonoros en la cultura e historia de las comunidades, con perspectiva de género y decolonial.
+
+[ruidopropio.net](http://ruidopropio.net)
+:::
+
+::: {.collective}
+[2019 – 2024 · Colectiva 22bits]{.album-meta}
+
+### Archivo Veintidós
+
+Sello de música experimental y arte sonoro del sur global, co-creado y co-dirigido con Bárbara Molina. Distribución gratuita de artistas experimentales de Latinoamérica.
+
+[archivoveintidos.bandcamp.com](https://archivoveintidos.bandcamp.com/)
+:::
+:::
 
 
 <!-- ============================================================
@@ -589,7 +894,7 @@ Esta obra fue montada también el 2019 en exhibición Marea, (CENTEX, Valparaís
 :::
 
 ::: {.closing-footer}
-Portafolio construido en Markdown + [paged.js](https://pagedjs.org) · Código fuente en [github.com/misaaaaaa/portfolio](https://github.com/misaaaaaa/portfolio)
+Portafolio construido en Markdown + [paged.js](https://pagedjs.org) · Código fuente en [github.com/misaaaaaa/portfolio-anid-2027](https://github.com/misaaaaaa/portfolio-anid-2027)
 :::
 :::
 

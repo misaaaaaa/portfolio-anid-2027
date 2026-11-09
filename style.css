@@ -524,6 +524,135 @@ body {
 }
 
 
+
+/* ============================================================
+   ANID 2027 · PUBLICACIONES SONORAS (álbumes en una página)
+   ============================================================ */
+.albums {
+  width: var(--page-w);
+  height: var(--page-h);
+  break-after: page;
+  padding: 0.6in 0.7in;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto 1fr;
+  column-gap: 0.45in;
+  overflow: hidden;
+}
+
+.albums > h2,
+.collectives-head h2 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 30pt;
+  text-transform: lowercase;
+  color: var(--text);
+  margin: 0;
+}
+
+.albums > h2 { grid-column: 1 / 3; }
+
+.albums > p:has(.albums-meta) {
+  grid-column: 3;
+  align-self: end;
+  text-align: right;
+  margin: 0;
+}
+
+.albums-meta {
+  display: block;
+  font-family: var(--serif);
+  font-size: 10pt;
+  color: var(--accent);
+}
+
+.album {
+  grid-row: 2;
+  display: flex;
+  flex-direction: column;
+  padding-top: 0.3in;
+  min-height: 0;
+}
+
+.album figure { margin: 0; }
+
+.album img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 0.14in;
+}
+
+.album figcaption { display: none; }
+
+.album-meta {
+  display: block;
+  font-family: var(--serif);
+  font-size: 9pt;
+  font-style: italic;
+  color: var(--text-dim);
+}
+
+.album p:has(.album-meta),
+.collective p:has(.album-meta) { margin: 0 0 0.04in; }
+
+.album h3,
+.collective h3 {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 11.5pt;
+  line-height: 1.25;
+  color: var(--text);
+  margin: 0 0 0.08in;
+}
+
+.album p,
+.collective p {
+  font-family: var(--serif);
+  font-size: 8.6pt;
+  line-height: 1.45;
+  color: var(--text);
+  margin: 0 0 0.08in;
+}
+
+.album a,
+.collective a {
+  color: var(--link);
+  text-decoration: none;
+  font-size: 8.6pt;
+}
+
+
+/* ============================================================
+   ANID 2027 · PROYECTOS COLECTIVOS (todos en una página)
+   ============================================================ */
+.collectives {
+  width: var(--page-w);
+  height: var(--page-h);
+  break-after: page;
+  padding: 0.65in 0.7in;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto auto;
+  align-content: center;
+  gap: 0.55in 0.45in;
+  overflow: hidden;
+}
+
+.collectives-head {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.collectives-head p { margin-top: 0.1in; }
+
+.collective {
+  border-top: 0.5px solid var(--border);
+  padding-top: 0.14in;
+}
+
 /* ============================================================
    PÁGINA DE CIERRE
    ============================================================ */
