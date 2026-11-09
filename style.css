@@ -700,6 +700,41 @@ body {
   text-decoration: none;
 }
 
+.press-url, .press-url a {
+  display: block;
+  font-family: var(--serif);
+  font-size: 7.5pt;
+  color: var(--link);
+  text-decoration: none;
+  word-break: break-all;
+  line-height: 1.25;
+}
+
+.press-image {
+  margin-top: auto;
+  position: relative;
+  height: 2.6in;
+}
+
+.press-image figure { margin: 0; width: 100%; height: 100%; position: relative; }
+
+.press-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.press-image figcaption {
+  position: absolute;
+  bottom: 0.08in;
+  right: 0.12in;
+  font-family: var(--serif);
+  font-size: 7.5pt;
+  font-style: italic;
+  color: rgba(13, 13, 13, 0.75);
+}
+
 .press-detail {
   display: block;
   font-family: var(--serif);
