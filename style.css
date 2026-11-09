@@ -653,6 +653,60 @@ body {
   padding-top: 0.14in;
 }
 
+
+/* ============================================================
+   ANID 2027 · PRENSA (dos columnas)
+   ============================================================ */
+.press {
+  width: var(--page-w);
+  height: var(--page-h);
+  break-after: page;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 0.5in;
+  padding: 0.6in 0.7in;
+  overflow: hidden;
+}
+
+.press-col { display: flex; flex-direction: column; min-height: 0; }
+
+.press h2 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 30pt;
+  text-transform: lowercase;
+  color: var(--text);
+  margin: 0 0 0.2in;
+}
+
+.press h3 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 10pt;
+  color: var(--accent);
+  margin: 0 0 0.14in;
+}
+
+.press-col:nth-child(2) h3:first-child { margin-top: 0.62in; }
+
+.press p { margin: 0 0 0.1in; line-height: 1.3; }
+
+.press-title, .press-title a {
+  display: block;
+  font-family: var(--serif);
+  font-size: 9.5pt;
+  font-style: italic;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.press-detail {
+  display: block;
+  font-family: var(--serif);
+  font-size: 8.5pt;
+  color: var(--text-dim);
+}
+
 /* ============================================================
    PÁGINA DE CIERRE
    ============================================================ */

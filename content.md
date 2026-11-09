@@ -281,11 +281,10 @@ Parte de la exposición “Tiempo de Decaimiento Temprano” del Núcleo de Arte
 ![Vista general "Un trazo en el oído". Fotografía por Clo Rojo](./images/untrazo5.jpg)
 :::
 
-<!-- ANID 2027 · NUEVO · Hablar con extraños
-     PENDIENTE: reemplazar imagen provisoria por registro de Galería Micromedios -->
+<!-- ANID 2027 · NUEVO · Hablar con extraños -->
 ::: {.project .project-right}
 ::: {.project-image}
-![Imagen provisoria](./images/general-img-landscape.png)
+![Vista general de la instalación. Fotografía por Stephanie Orellana](./images/hablar1.jpg)
 :::
 
 ::: {.project-text}
@@ -293,13 +292,17 @@ Parte de la exposición “Tiempo de Decaimiento Temprano” del Núcleo de Arte
 
 ## Hablar con extraños (2025)
 
-[INSTALACIÓN SONORA]{.project-subtitle}
-[Curatoría por Vicente Domínguez. Adaptación de _Amplificar la duda_ (2024)]{.project-materials}
+[INTERVENCIÓN MEDIAL]{.project-subtitle}
+[Ensamblajes con discos duros, lupas y atriles, texto impreso, piedras de canto rodado. Curatoría por Vicente Domínguez (DIC FAU). Adaptación de _Amplificar la duda_ (2024)]{.project-materials}
 
-Instalación sonora adaptada desde el proyecto expositivo _Amplificar la duda_ para la Galería Micromedios de la Facultad de Arquitectura y Urbanismo de la U. de Chile. La pieza retoma las instancias de escucha en las que conversé con personas adultas sobre sus historias, dudas, rasgos y comportamientos que podrían ser calificados como extraños, y las reorganiza para un nuevo espacio, especulando sobre los límites y categorías de lo que significa ser una persona.
+"La intervención medial, “Hablar con extraños”, presenta, a través de recursos sonoros y textuales, fragmentos de una serie de diálogos que el artista sostuvo y documentó, entre 2021 y 2023, donde sus interlocutores/as reflexionaron sobre la experiencia de sentirse extraños en diversos contextos de percepción, socialización y habitar. (…) De este modo, sonido, archivo y máquina entran aquí en tensión." — Extracto de texto curatorial
 
 [Información de la exposición](https://translab.uchilefau.cl/hablar-con-extranos/)
 :::
+:::
+
+::: {.fullpage .caption-dark}
+![Detalle de ensamblaje en "Hablar con extraños". Fotografía por Stephanie Orellana](./images/hablar7.jpg)
 :::
 
 <!-- FIN IMAGEN COMPLETA -->
@@ -765,7 +768,7 @@ Investigación y promoción de las artes sonoras dentro de las artes visuales. E
 
 ### Aproximaciones subacuáticas
 
-Creación e investigación interdisciplinar entre arte sonoro y nado, dirigida por Fernanda Fábrega. Concierto _Nada como una metáfora_ (2026).
+Co-director y artista sonoro. Creación e investigación interdisciplinar entre arte sonoro y nado, junto a Fernanda Fábrega y Santiago Corvalán. Concierto _Nada como una metáfora_ (2026).
 
 [clubsonorodeportivo.cl](https://clubsonorodeportivo.cl)
 :::
@@ -775,7 +778,7 @@ Creación e investigación interdisciplinar entre arte sonoro y nado, dirigida p
 
 ### Árboles ciudadanos
 
-Creación e investigación interdisciplinar (electrónica, sonido, teatro y espacio público) en torno a los árboles en entornos urbanos.
+Artista sonoro. Creación e investigación interdisciplinar (electrónica, sonido, teatro y espacio público) en torno a los árboles en entornos urbanos.
 
 [arbolesciudadanos.cl](https://arbolesciudadanos.cl/)
 :::
@@ -801,6 +804,121 @@ Sello de música experimental y arte sonoro del sur global, co-creado y co-dirig
 :::
 :::
 
+
+<!-- ============================================================
+     ANID 2027 · PRENSA — extraída de https://misaa.cc/cv.html
+     ============================================================ -->
+::: {.press}
+::: {.press-col}
+## Prensa
+
+### Comentarios de obras
+
+[[Crepitar el horizonte](https://aceleracionismo.com/2025/06/21/crepitar-el-horizonte/)]{.press-title}
+[Vania Montgomery · Aceleracionismo · jun 2025]{.press-detail}
+
+[[Hacia un museo en estéreo: notas sobre prácticas guerrilleras y polifonías institucionales](https://www.mediales.art/articulos/museo-en-estereo)]{.press-title}
+[Victoria Guzmán · Mediales.art · ene 2025]{.press-detail}
+
+[[Cargar una Piedra: Experimento Didáctico y Conversación con Matías Serrano](https://emememe.org/cargar-una-piedra-conversacion-con-matias-serrano/)]{.press-title}
+[David Ayala-Alfonso · Múltiples Metonimias Materiales · dic 2024]{.press-detail}
+
+:::
+
+::: {.press-col}
+### Entrevistas
+
+[[Exposición "Transistores en tránsito" de Matías Serrano](https://www.youtube.com/watch?v=xAF0xvNSjqU)]{.press-title}
+[Valentina Montero · YouTube, PAM Plataforma Arte Medios · jul 2025]{.press-detail}
+
+[[Matías Serrano: “Escuchar necesariamente tiene que ver con el presente y el aquí y el ahora”](https://web.archive.org/web/20250514151017/https://mim.cl/noticia/matias-serrano-escuchar-necesariamente-tiene-que-ver-con-el-presente-y-el-aqui-y-el-ahora/)]{.press-title}
+[Museo Interactivo Mirador · 2024]{.press-detail}
+
+[[Matías Serrano expone “amplificar la duda: exploraciones mediales sobre las sensibilidades extrañas” en Sala Juan Egenau](https://artes.uchile.cl/noticias/220709/matias-serrano-expone-ampliar-la-duda-en-sala-juan-egenau)]{.press-title}
+[Macarena Montes · Facultad de Artes, Universidad de Chile · sep 2024]{.press-detail}
+
+[[Entrevista con Matías Serrano “La memoria contándole a la luz el sonido de la lluvia”](https://www.youtube.com/watch?v=CU5aWG3QbD4)]{.press-title}
+[Alexis Llerena · YouTube, PAM Plataforma Arte Medios · abr 2024]{.press-detail}
+
+[[MATÍAS SERRANO A.K.A. MISAA INTERVIÚ :. Islas Resonantes](https://peruavantgarde.blogspot.com/2021/01/matias-serrano-aka-misaa-interviu-islas.html)]{.press-title}
+[Wilder González · Vanguardia Peruana & Sonidos Contemporáneos · ene 2021]{.press-detail}
+
+[[22bits - Conversas en cuarentena](https://www.youtube.com/watch?v=P6YBM3nIuNE)]{.press-title}
+[Valentina Montero · YouTube, PAM Plataforma Arte Medios · oct 2020]{.press-detail}
+
+[[RUIDO #12](https://www.elruidoeselmensaje.com/ruidos/ruido2020/ruido12/)]{.press-title}
+[Franco Falistoco · El RUIDO es el Mensaje · jun 2020]{.press-detail}
+
+[[«Tutupá», el invento chileno que desdibuja los límites entre tecnología y arte](https://pousta.com/tutupa-colectivo-22bits-tecno-art/)]{.press-title}
+[Marcial Parraguez · Pousta · may 2018]{.press-detail}
+
+:::
+:::
+
+::: {.press}
+::: {.press-col}
+## Prensa
+
+### Notas de prensa
+
+[[Graduados MAM presentan proyecto de exploración artística y deportiva](https://uchile.cl/noticias/238304/graduados-mam-presentan-proyecto-de-exploracion-artistica-y-deportiva)]{.press-title}
+[Universidad de Chile · mar 2026]{.press-detail}
+
+[[Explorar el sonido como materia: El Núcleo de Artes Sonoras exhibe “Tiempo de Decaimiento Temprano” en MAC Quinta Normal](https://artes.uchile.cl/noticias/227980/nucleo-de-artes-sonoras-exhibe-tiempo-de-decaimiento-tempran)]{.press-title}
+[Facultad de Artes, Universidad de Chile · may 2025]{.press-detail}
+
+[[I Festival Onda Expansiva reúne a más de 30 artistas mediales en el Museo de la Educación Gabriela Mistral](https://www.latercera.com/culto/2024/11/12/i-festival-onda-expansiva-reune-a-mas-de-30-artistas-mediales-en-el-museo-de-la-educacion-gabriela-mistral/)]{.press-title}
+[La Tercera · nov 2024]{.press-detail}
+
+[[MAC UChile celebra veinte años de su sede Quinta Normal inaugurando exhibiciones con más de 50 artistas](https://www.13.cl/c/programas/espacio-13c/mac-uchile-celebra-veinte-anos-de-su-sede-quinta-normal-inaugurando)]{.press-title}
+[13C · oct 2024]{.press-detail}
+
+[[Música Impro en el Experimento 18 Azarret La Tehuanita](https://marvin.com.mx/musica-impro-en-el-experimento-18-azarret-la-tehuanita/)]{.press-title}
+[Revista Marvin · sep 2024]{.press-detail}
+
+[[Académicos DAV participan en ciclo sonoro](https://uchile.cl/noticias/219428/academicos-dav-participan-en-ciclo-sonoro)]{.press-title}
+[Universidad de Chile · ago 2024]{.press-detail}
+
+[[Premio MAVI UC LarrainVial Arte joven 2023 recae en egresados del DAV](https://artes.uchile.cl/noticias/207299/premio-mavi-uc-larrainvial-arte-joven-2023-recae-en-egresados-del-dav)]{.press-title}
+[Facultad de Artes, Universidad de Chile · jul 2023]{.press-detail}
+
+[[Lanzamiento de Núcleo Artes Sonoras incluye conciertos en Las Encinas](https://artes.uchile.cl/noticias/206465/lanzamiento-de-nucleo-artes-sonoras-incluye-conciertos-en-las-encinas)]{.press-title}
+[Facultad de Artes, Universidad de Chile · jun 2023]{.press-detail}
+
+[[En Atenas se presentarán obras del Núcleo Sonoro del DAV](https://artes.uchile.cl/noticias/202394/en-atenas-se-presentaran-obras-del-nucleo-sonoro-del-dav)]{.press-title}
+[Facultad de Artes, Universidad de Chile · ene 2023]{.press-detail}
+
+:::
+
+::: {.press-col}
+### &nbsp;
+
+[[Con Chile como país invitado comienza el XXI Festival Internacional de la Imagen de Colombia](https://www.cultura.gob.cl/actualidad/con-chile-como-pais-invitado-comienza-el-xxi-festival-internacional-de-la-imagen-de-colombia/)]{.press-title}
+[Ministerio de las Culturas, las Artes y el Patrimonio · oct 2022]{.press-detail}
+
+[[Estudiantes del Magister en Artes Mediales transmiten experimentaciones sonoras en Radio Tsonami](https://uchile.cl/noticias/177815/estudiantes-del-mam-transmiten-experimentaciones-sonoras-)]{.press-title}
+[Universidad de Chile · jul 2021]{.press-detail}
+
+[[Misaa explora y reconstruye el subsuelo a través del sonido en su nuevo trabajo](https://sunderbeats.com/misaa-explora-y-reconstruye-el-subsuelo-a-traves-del-sonido-en-su-nuevo-trabajo)]{.press-title}
+[Sunderbeats · jun 2021]{.press-detail}
+
+[[Ciclo invita a reflexionar sobre identidad y memoria sonora](https://artes.uchile.cl/noticias/170753/ciclo-invita-a-reflexionar-sobre-identidad-y-memoria-sonora)]{.press-title}
+[Facultad de Artes, Universidad de Chile · nov 2020]{.press-detail}
+
+[[“Dispositivas de Encarnación” la instalación sonora que recupera labores femeninas de la pesca](https://www.elmostrador.cl/braga/2019/10/14/dispositivas-de-encarnacion-la-instalacion-sonora-que-recupera-labores-femeninas-de-la-pesca/)]{.press-title}
+[El Mostrador · oct 2019]{.press-detail}
+
+[[Positivo balance de primeros encuentros regionales de arte y nuevos medios](https://www.cultura.gob.cl/actualidad/positivo-balance-de-primeros-encuentros-regionales-de-arte-y-nuevos-medios/)]{.press-title}
+[Ministerio de las Culturas, las Artes y el Patrimonio · oct 2018]{.press-detail}
+
+[[“Espectral” se adentra en sonoridad del Túnel Punta de Parra](https://www.diarioconcepcion.cl/cultura-y-espectaculos/2018/08/07/espectral-se-adentra-en-sonoridad-del-tunel-punta-de-parra.html)]{.press-title}
+[Diario Concepción · ago 2018]{.press-detail}
+
+[[Espectral: Escucha de un paisaje intervenido, de Colectivo 22bits + AOIR](https://arteymedios.org/?p=583)]{.press-title}
+[Plataforma Arte & Medios · jul 2018]{.press-detail}
+
+:::
+:::
 
 <!-- ============================================================
      DOCENCIA + RESIDENCIAS
