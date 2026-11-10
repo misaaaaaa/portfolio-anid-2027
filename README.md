@@ -285,3 +285,16 @@ Las fuentes se cargan desde Google Fonts en `template.html`.
 
 Diseñado y desarrollado por [Matías Serrano Acevedo](https://misaa.cc).  
 Estructura, layout y CSS generados en colaboración con **GitHub Copilot** (Claude Sonnet 4.6), abril 2026.
+
+---
+
+## Versión ANID 2027
+
+Este repositorio deriva de [misaaaaaa/portfolio](https://github.com/misaaaaaa/portfolio) y agrega proyectos, publicaciones sonoras, proyectos colectivos, prensa y un CV condensado.
+
+El CV condensado (al final de `content.md`) se genera desde [misaa.cc/cv.md](https://misaa.cc/cv.md), omitiendo docencia, residencias y prensa:
+
+```bash
+./update-cv.sh   # descarga cv.md y reescribe el bloque CV CONDENSADO en content.md
+./export-pdf.sh  # regenera el PDF
+```

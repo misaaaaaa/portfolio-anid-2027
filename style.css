@@ -742,6 +742,90 @@ body {
   color: var(--text-dim);
 }
 
+
+/* ============================================================
+   ANID 2027 · CV CONDENSADO (3 columnas, generado desde cv.md)
+   ============================================================ */
+.cvfull {
+  width: var(--page-w);
+  height: var(--page-h);
+  break-after: page;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 0.3in;
+  padding: 0.5in 0.6in;
+  overflow: hidden;
+}
+
+.cvf-col { min-width: 0; overflow: hidden; }
+
+.cvf-col h2.cvf-title {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 26pt;
+  line-height: 1.1;
+  text-transform: lowercase;
+  color: var(--text);
+  margin: 0 0 0.08in;
+}
+
+.cvf-meta {
+  display: block;
+  font-family: var(--serif);
+  font-size: 8.5pt;
+  line-height: 1.35;
+  color: var(--text-dim);
+  margin-bottom: 0.1in;
+}
+
+.cvf-meta a { color: var(--link); text-decoration: none; }
+
+.cvf-col p:has(.cvf-meta) { padding-left: 0; text-indent: 0; }
+
+.cvf-end { margin-top: 10pt; border-top: 0.5px solid var(--border); padding-top: 6pt; }
+
+.cvf-col h4.cvf-h2 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 14pt;
+  text-transform: lowercase;
+  color: var(--text);
+  border-bottom: 0.5px solid var(--border);
+  padding-bottom: 2pt;
+  margin: 8pt 0 4pt;
+}
+
+.cvf-col h5.cvf-h3 {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 7.6pt;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin: 6pt 0 3pt;
+}
+
+.cvf-col p {
+  font-family: var(--serif);
+  font-size: 7.3pt;
+  line-height: 1.3;
+  color: var(--text);
+  margin: 0 0 2.4pt;
+  padding-left: 2.4em;
+  text-indent: -2.4em;
+}
+
+.cvf-y {
+  font-weight: 700;
+  color: var(--text);
+  margin-right: 0.3em;
+}
+
+.cvf-link, .cvf-col p a {
+  color: var(--link);
+  text-decoration: none;
+}
+
 /* ============================================================
    PÁGINA DE CIERRE
    ============================================================ */
