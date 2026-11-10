@@ -53,7 +53,7 @@ for raw in cv.splitlines():
     if e: units.append(('e', e))
     else: print('SKIP', line[:70], file=sys.stderr)
 
-units.insert(0, ('hdr', '## curriculum vitae {.cvf-title}\n\n[Versión condensada, sin docencia, residencias ni prensa (ver secciones anteriores). CV completo con enlaces y registros en [misaa.cc/cv.html](https://misaa.cc/cv.html)]{.cvf-meta}'))
+units.insert(0, ('hdr', '## curriculum vitae {.cvf-title}\n\n[CV completo  en [misaa.cc/cv.html](https://misaa.cc/cv.html)]{.cvf-meta}'))
 
 units.append(('end', '[CV completo, actualizado y con enlaces a registros: [misaa.cc/cv.html](https://misaa.cc/cv.html)]{.cvf-meta .cvf-end}'))
 

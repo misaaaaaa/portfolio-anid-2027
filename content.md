@@ -28,7 +28,7 @@ lang: es
 ## Biografía
 
 ::: {.bio-body}
-Matías Serrano Acevedo (Santiago, 1993) es artista sonoro y electrónico. Magíster en Artes Mediales (2024) y Licenciado en Artes mención Sonido (2017), ambos de la Universidad de Chile. Becario desde 2026 del programa de Doctorado en Artes y Humanidades de la Universidad de Santiago de Chile. 
+Matías Serrano Acevedo (Santiago, 1993) es artista sonoro y electrónico. Magíster en Artes Mediales (2024) y Licenciado en Artes mención Sonido (2017), ambos de la Universidad de Chile. Estudiante desde 2026 del programa de Doctorado en Artes y Humanidades de la Universidad de Santiago de Chile. 
 
 Académico adjunto y parte del Núcleo de Artes Sonoras del Departamento de Artes Visuales de la U. de Chile. Ha presentado su trabajo en diversos espacios, exposiciones y festivales en Chile y latinoamérica y ha publicado varios álbumes bajo el pseudónimo de “misaa”. Desde 2022 se desempeña como docente de arte, electrónica y medios en carreras de artes visuales en UNIACC, UDP y U. de Chile. Creó la Colectiva 22bits en 2015 y el sello Archivo Veintidós en 2019 junto a Bárbara Molina, a través de los cuales participaron de encuentros y festivales de arte, tecnología, sonido y diseño en Chile, México, Argentina y Colombia.
 :::
@@ -41,9 +41,9 @@ Académico adjunto y parte del Núcleo de Artes Sonoras del Departamento de Arte
      statement-body admite varios párrafos.
      ============================================================ -->
 ::: {.statement}
-::: {.statement-left}
-## 
+## Statement {.statement-title}
 
+::: {.statement-left}
 ::: {.statement-image}
 ![Fotografía por Matías Serrano](./images/uyd8-vert.jpg)
 :::
@@ -1033,7 +1033,7 @@ Sello de música experimental y arte sonoro del sur global, co-creado y co-dirig
 ::: {.cvf-col}
 ## curriculum vitae {.cvf-title}
 
-[Versión condensada, sin docencia, residencias ni prensa (ver secciones anteriores). CV completo con enlaces y registros en [misaa.cc/cv.html](https://misaa.cc/cv.html)]{.cvf-meta}
+[CV completo  en [misaa.cc/cv.html](https://misaa.cc/cv.html)]{.cvf-meta}
 
 #### Formación {.cvf-h2}
 

@@ -208,6 +208,21 @@ body {
   display: grid;
   grid-template-columns: 88mm 209mm;
   break-after: page;
+  position: relative;
+}
+
+/* Título arriba a la derecha (mismo estilo que "biografía") */
+.statement > h2.statement-title {
+  position: absolute;
+  top: 0.55in;
+  right: 0.8in;
+  margin: 0;
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 34pt;
+  line-height: 1;
+  text-transform: lowercase;
+  color: var(--text);
 }
 
 /* Columna izquierda: imagen a pantalla completa con título superpuesto */
