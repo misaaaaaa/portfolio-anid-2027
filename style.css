@@ -321,6 +321,22 @@ body {
   display: block;
 }
 
+/* Dos imágenes apiladas (una arriba, otra abajo) */
+.project-image.project-image-stack {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  height: var(--page-h);
+}
+
+.project-image-stack figure {
+  position: relative;
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.project-image-stack img.pos-top { object-position: 50% 28%; }
+
 .project-image figcaption {
   position: absolute;
   bottom: 0.2in;

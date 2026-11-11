@@ -92,8 +92,10 @@ Los resultados se presentaron en una exposición a dúo durante Kunsttage Basel,
 <!-- INICIO PROYECTO -->
 
 ::: {.project .project-right}
-::: {.project-image}
-![Sesión de entrenamiento en la piscina. Fotografía por Sebastián Arriagada](./images/aprox3.jpg)
+::: {.project-image .project-image-stack}
+![Consola de mezcla durante el concierto. Fotografía por Sebastián Arriagada](./images/aprox-mezcla.jpg)
+
+![Sesión de entrenamiento en la piscina. Fotografía por Sebastián Arriagada](./images/aprox-piscina.jpg){.pos-top}
 :::
 
 ::: {.project-text}
