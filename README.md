@@ -298,3 +298,12 @@ El CV condensado (al final de `content.md`) se genera desde [misaa.cc/cv.md](htt
 ./update-cv.sh   # descarga cv.md y reescribe el bloque CV CONDENSADO en content.md
 ./export-pdf.sh  # regenera el PDF
 ```
+
+### Versión liviana
+
+`portfolio-light.pdf` (< 2 MB) usa copias comprimidas de las imágenes en `images-light/` y enlaza desde la portada a `portfolio.pdf` (alta calidad) en este repositorio.
+
+```bash
+python3 tools/make-light-images.py 110 66   # regenera images-light/ (DPI, calidad JPEG)
+python3 export-pdf-light.py                 # genera portfolio-light.pdf
+```
