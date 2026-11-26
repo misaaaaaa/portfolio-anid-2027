@@ -681,7 +681,7 @@ Fue visionado en la 12ª Strangloscope – Mostra Internacional de Áudio, Víde
 <!-- ANID 2027 · NUEVO · Percusiones, bits y audiciones -->
 ::: {.project}
 ::: {.project-image}
-![Archivo Colectiva 22bits](./images/sonidesp1.jpg)
+![Fotografía por Alejandra Caro](./images/sonidoespecifico.jpg)
 :::
 
 ::: {.project-text}
